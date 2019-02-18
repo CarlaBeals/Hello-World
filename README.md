@@ -1,2 +1,3 @@
 # Hello-World
-little refresher project
+
+This is a little practice project to serve as a refresher to github.
